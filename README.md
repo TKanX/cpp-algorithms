@@ -41,6 +41,7 @@ CppAlgorithms/
 
 - Bubble Sort ([Explanation](sorting/bubble_sort.md))
 - Selection Sort ([Explanation](sorting/selection_sort.md))
+- Insertion Sort ([Explanation](sorting/insertion_sort.md))
 
 ## How to Use
 

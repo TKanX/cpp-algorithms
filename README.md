@@ -37,6 +37,10 @@ CppAlgorithms/
 
 ## Algorithms Covered
 
+### Sorting Algorithms
+
+- Bubble Sort ([Explanation](sorting/bubble_sort.md))
+
 ## How to Use
 
 **Clone the Repository**:

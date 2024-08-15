@@ -43,6 +43,7 @@ CppAlgorithms/
 - Selection Sort ([Explanation](sorting/selection_sort.md))
 - Insertion Sort ([Explanation](sorting/insertion_sort.md))
 - Merge Sort ([Explanation](sorting/merge_sort.md))
+- Quick Sort ([Explanation](sorting/quick_sort.md))
 
 ## How to Use
 

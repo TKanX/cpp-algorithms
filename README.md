@@ -40,6 +40,7 @@ CppAlgorithms/
 ### Sorting Algorithms
 
 - Bubble Sort ([Explanation](sorting/bubble_sort.md))
+- Selection Sort ([Explanation](sorting/selection_sort.md))
 
 ## How to Use
 

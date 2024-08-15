@@ -10,7 +10,7 @@ The Bubble Sort algorithm repeatedly steps through the list to be sorted, compar
 
 ### Visualization
 
-![Bubble Sort Animation](bubble_sort.gif)
+![Bubble Sort Animation](/images/bubble_sort.gif)
 
 ### Steps of the Algorithm
 

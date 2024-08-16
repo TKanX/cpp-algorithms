@@ -45,6 +45,7 @@ CppAlgorithms/
 - Merge Sort ([Explanation](sorting/merge_sort.md))
 - Quick Sort ([Explanation](sorting/quick_sort.md))
 - Heap Sort ([Explanation](sorting/heap_sort.md))
+- Shell Sort ([Explanation](sorting/shell_sort.md))
 
 ## How to Use
 

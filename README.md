@@ -48,6 +48,7 @@ CppAlgorithms/
 - Shell Sort ([Explanation](sorting/shell_sort.md))
 - Counting Sort ([Explanation](sorting/counting_sort.md))
 - Radix Sort ([Explanation](sorting/radix_sort.md))
+- Bucket Sort ([Explanation](sorting/bucket_sort.md))
 
 ## How to Use
 

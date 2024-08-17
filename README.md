@@ -47,6 +47,7 @@ CppAlgorithms/
 - Heap Sort ([Explanation](sorting/heap_sort.md))
 - Shell Sort ([Explanation](sorting/shell_sort.md))
 - Counting Sort ([Explanation](sorting/counting_sort.md))
+- Radix Sort ([Explanation](sorting/radix_sort.md))
 
 ## How to Use
 

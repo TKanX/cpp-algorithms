@@ -46,6 +46,7 @@ CppAlgorithms/
 - Quick Sort ([Explanation](sorting/quick_sort.md))
 - Heap Sort ([Explanation](sorting/heap_sort.md))
 - Shell Sort ([Explanation](sorting/shell_sort.md))
+- Counting Sort ([Explanation](sorting/counting_sort.md))
 
 ## How to Use
 
